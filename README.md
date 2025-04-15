@@ -1,6 +1,7 @@
 # Blow-up Cox Ring Generators
 
 This repository contains Magma code to compute generators of the **Cox ring** of a blow-up of a projective variety along a subscheme.
+This algorithm is based on: J. Hausen, S. Keicher, A. Laface, "Computing Cox rings", Math. Comp. 85 (2016), 467–502. https://doi.org/10.1090/mcom/2989
 
 ## Files
 
